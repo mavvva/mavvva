@@ -2,7 +2,9 @@
 I'm a student at Mapúa Malayan Colleges Laguna, currently pursuing a Bachelor's in Information Technology, specializing in Cloud Computing. I’m passionate about expanding my skills, and I’m always open to learning new technologies and tools.
 
 📚 Current Learning: I'm diving into Cybersecurity on the side.
+
 🎓 Certifications: I’ve earned various certifications but am still working on building out my portfolio with personal projects.
+
 🌱 Always Learning: While I don’t have many projects just yet, I’m committed to continuous learning and growth!
 
 ## 🌐 **Socials**:
