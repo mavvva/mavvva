@@ -5,13 +5,9 @@ I'm a student at Mapúa Malayan Colleges Laguna, currently pursuing a Bachelor's
 🎓 Certifications: I’ve earned various certifications but am still working on building out my portfolio with personal projects.
 🌱 Always Learning: While I don’t have many projects just yet, I’m committed to continuous learning and growth!
 
-
 ## 🌐 **Socials**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma-veronica-acal-2aa58937a/) [Ma. Veronica Acal]  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veronicamaacal@gmail.com) veronicamaacal@gmail.com
-
-
-
 
 ## 💻 **Tech Stack**:
 
@@ -29,7 +25,6 @@ I'm a student at Mapúa Malayan Colleges Laguna, currently pursuing a Bachelor's
 
 ### **Other Tools & Technologies**:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mavvva&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
