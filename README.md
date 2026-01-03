@@ -7,8 +7,10 @@ I'm a student at Mapúa Malayan Colleges Laguna, currently pursuing a Bachelor's
 
 
 ## 🌐 **Socials**:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ma. Veronica Acal)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veronicamaacal@gmail.com)
+## 🌐 **Socials**:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ma-Veronica-Acal) Ma. Veronica Acal  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veronicamaacal@gmail.com) veronicamaacal@gmail.com
+
 
 
 # 💻 Tech Stack:
