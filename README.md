@@ -28,12 +28,7 @@ I'm a student at Mapúa Malayan Colleges Laguna, currently pursuing a Bachelor's
 ### **Other Tools & Technologies**:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mavvva&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mavvva&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mavvva&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=mavvva&icon=1&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
